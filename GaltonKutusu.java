@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Revmin
  */
-public class GoldonKutusu {
+public class GaltonKutusu {
        public static void main(String []args) {
                 Scanner input = new Scanner(System.in);
            System.out.println("Bırakılacak top sayısını girin : ");
